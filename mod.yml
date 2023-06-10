@@ -1,0 +1,13 @@
+title: BURN BURN TO THE GROUND
+originalAuthor: Kangdide
+description:
+assets:
+- name: remastered\obj\B_EX110_LV99.a.us\voice\battle\us\n_axel_re
+  method: copy
+  source:
+  - name: n_axel_re.scd
+- name: remastered\obj\B_EX110.a.us\voice\battle\us\n_axel
+  method: copy
+  source:
+  - name: n_axel.scd
+
